@@ -1,0 +1,11 @@
+{
+  "name": "devtodo",
+  "version": "1.0.0",
+  "description": "A minimal CLI to-do list built for programmers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["todo", "cli", "productivity", "developer"],
+  "license": "MIT"
+}
