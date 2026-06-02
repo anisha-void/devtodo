@@ -43,7 +43,7 @@ node index.js clear
 
 ## Roadmap
 
-- [ ] priority levels
+- [ ] priority level
 - [ ] due dates
 - [ ] filter by tag
 - [ ] export to markdown
