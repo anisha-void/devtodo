@@ -3,33 +3,27 @@
 Thanks for your interest! Here's how to get started:
 
 ## Setup
-
-```bash
 git clone https://github.com/yourusername/devtodo
 cd devtodo
 node index.js
-```
+
 
 ## How to contribute
 
-- Fork the repo
-- Create a branch: `git checkout -b feat/your-feature`
-- Make your changes
-- Commit: `git commit -m "feat: describe your change"`
-- Push and open a PR
+We love help! Follow these simple steps to contribute to the project:Fork the repository.Create a branch for your work:bashgit checkout -b feat/your-feature
+Use code with caution.Make your changes in the code.Commit your work with a clear message:bashgit commit -m "feat: describe your change"
+Use code with caution.Push your branch and open a Pull Request.
 
 ## Commit style
 
-Use the same tags the app supports:
-
-| Prefix | When |
-|--------|------|
-| `feat:` | new feature |
-| `bug:` | bug fix |
-| `refactor:` | code cleanup |
-| `test:` | adding tests |
-| `docs:` | documentation |
-| `chore:` | misc |
+We use specific prefixes for commit messages to keep our history clean. Match your prefix to the type of change you made:
+Prefix                       When to Use
+feat                         A brand new feature
+bug                          A bug fix
+refactor:                    Code cleanup with no new 
+featurestest:                Adding or fixing
+testsdocs:                    Changes to
+documentationchore          Miscellaneous tasks or maintenance
 
 ## Ideas to work on
 
