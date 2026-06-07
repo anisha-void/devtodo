@@ -9,3 +9,11 @@
   "keywords": ["todo", "cli", "productivity", "developer"],
   "license": "MIT"
 }
+# add alias to ~/.zshrc or ~/.bashrc
+alias todo="node /path/to/devtodo/index.js"
+
+# try it
+todo add Fix login bug --tag bug --priority high --due 2025-02-01
+todo list
+todo stats
+todo export --md
